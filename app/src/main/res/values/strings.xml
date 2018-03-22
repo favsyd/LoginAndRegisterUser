@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Student Management App</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Student Details</item>
+        <item>Teacher Details</item>
+        <item>Exam Scores</item>
+        <item>Pay fees</item>
+        <item>Send sms</item>
+        <item>Assignment</item>
+    </string-array>
+    <string name="title_activity_view_all_employee">Student management</string>
+    <string name="title_activity_view_employee">Student management</string>
+</resources>
